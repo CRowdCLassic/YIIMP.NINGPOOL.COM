@@ -53,6 +53,13 @@ If you need further assistance we have a small but growing discord channel at ht
 If this helped you or you feel giving please donate :
 
 web:yiimp.ningpool.com
+
+
 BTC Donation : 13TVbB6tZcnKx8sQhifLj6MQMJSvwHspah 
+
+
 BCH Donation : 37vADDCn1a5Masz1gfDBKQ6bD7B8ko7E3P 
+
+
 ETH Donation : 0x13d725061931c5a366fb4f5ae64959440fe7bd12
+
